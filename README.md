@@ -59,9 +59,9 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/my-portfolio.git
 
-cd developer-portfolio
+cd my-portfolio
 ```
 
 ### Install packages from the root directory
@@ -96,7 +96,7 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/my-portfolio/tree/main/utils/data).
 
 Eg:
 
