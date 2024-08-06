@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Tony Wilson",
-  profile: '/profile.jpg',
+  profile: '/profile.png',
   designation: "Software Engineer",
   description: "Innovative Full-Stack Developer with 10 years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.",
   email: 'tonywilson930727@gmail.com',
