@@ -44,7 +44,7 @@ import microsoftoffice from '/public/svg/skills/microsoftoffice.svg';
 import mongoDB from '/public/svg/skills/mongoDB.svg';
 import mysql from '/public/svg/skills/mysql.svg';
 import nextJS from '/public/svg/skills/nextJS.svg';
-import nestJS from '/public/svg/skills/nestJS.svg';
+import nestJS from '/public/svg/skills/nestjs.svg';
 import solidity from '/public/svg/skills/solidity.svg';
 import hardhat from '/public/svg/skills/hardhat.svg';
 import rust from '/public/svg/skills/rust.svg';
