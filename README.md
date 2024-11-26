@@ -119,10 +119,10 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Kadueng Xaysongkham",
+  name: "Ian Oliver Martin",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is Kadueng Xaysongkham....",
+  description: "My name is Ian Oliver Martin....",
   email: "tonywilson930727@gmail.com",
   phone: "+8562099487362",
   address: "Vientiane, Laos",

@@ -1,8 +1,8 @@
 export const personalData = {
-  name: "Kadueng Xaysongkham",
+  name: "Ian Oliver Martin",
   profile: '/profile.png',
   designation: "Software Engineer",
-  description: "My name is Kadueng Xaysongkham. Innovative Full-Stack, Mobile, Blockchain, and AI Developer with 6+ years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.",
+  description: "My name is Ian Oliver Martin. Innovative Full-Stack, Mobile, Blockchain, and AI Developer with 6+ years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.",
   email: 'tonywilson930727@gmail.com',
   phone: '+856 209 9487362',
   address: "Vientiane, Laos",
