@@ -1,52 +1,67 @@
-import ayla from '/public/image/ayla.jpg';
-import crefin from '/public/image/crefin.jpg';
-import realEstate from '/public/image/real-estate.jpg';
-import travel from '/public/image/travel.jpg';
-
 export const projectsData = [
+// Do not remove any property.
+// Leave it blank instead as shown below
     {
         id: 1,
-        name: 'Cross-chain NFT marketplace',
-        description: "Founding Engineer at OmniX, a blockchain-based ecosystem of community-driven worlds, games, and dApps connected by a seamless, interoperable experience via the LayerZero protocol. Engaged with LayerZeroScan's Top 10 Protocols to foster collaborative partnerships and shared insights",
-        tools: ['Next.js', 'Tailwind Css', 'Layerzero', 'OpenAI API', 'GCP', 'TSED', 'GraphQL', 'PostgreSQL'],
-        role: 'Lead Full Stack Engineer',
+        name: 'Employee Identification System',
+        description: "This project is a employee identification software for the firearms training simulator. It detects the movement of faces on camera data. Once a database file is selected, the program can verify employee identification in real time.",
+        tools: ['RealTime Image Processing', 'OpenCV', 'PyQt5', 'Deepface', 'Tensorflow'],
+        role: 'Senior Software Engineer',
         code: '',
         demo: '',
-        image: crefin,
     },
     {
         id: 2,
+        name: 'Electronic Shooting System',
+        description: 'This project is a shot tracking software for the firearms training simulator. It tracks the movement of a firearm during all phases of a shot; target acquisition, aim, trigger pull, and follow through.',
+        tools: ['RealTime Image Processing', 'OpenCV', 'Qt', "MySql", 'UI/UX'],
+        role: 'AI Software Engineer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 3,
+        name: 'ViteX-Python Api',
+        description: 'This project is a smartcontract that developed using Vue.js and Python for ViteX cross-chain.',
+        tools: ['Vue.js', 'TypeScript', 'Python', 'Django', 'Solidity, Smart Contract'],
+        role: 'Senior Full Stack Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 4,
+        name: 'Virtual Solution for Engaged Workforce',
+        description: 'I have been working as a lead programmer and code reviewer at this project. Using this service, people can meet in virtual 3D environments like Office.They feel like-office at home and can work remotely. This project is focusing on providing a real meeting environment, and the best video and audio quality.',
+        tools: ['WebRTC', 'WebGL 3D', 'BabylonJS', 'ElectronJS', 'Solidity, Smart Contract', 'Web3.js', 'Node.js', 'Unity C#'],
+        role: 'Unity Game Lead Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 5,
+        name: 'Unity Online Multipalyer Battle Game',
+        description: 'This game is a 3D battle game. I worked as a programmer and I worked with artist who provides 3D models and animations.',
+        tools: ['Unity', 'C#', 'Node.js', 'Firebase Real-Time Database', "Firebase Store", 'Firebase Function', 'Firebase Cloud Messaging'],
+        role: 'Unity Game Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 6,
+        name: 'Unity Avatar Chatting Game',
+        description: 'I worked as a Unity programmer at the ProjectOneGames company. The target of this project is to make a beautiful character that can reorganization a person`s voice and can do a conversation with a real person. We built an AI conversation engine that can do conversation and linked this logic with Unity3D character.',
+        tools: ['Unity', 'C#', 'Node.js', 'Rest API', 'AWS AI'],
+        role: 'Main Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 7,
         name: 'Liquidity Staking Protocol',
         description: 'Demonstrated expertise in backend development by implementing a solution in Nest.js that reduced traffic by 20%, contributing to overall system performance and scalability.',
         tools: ['Solidity', 'Next.js', 'Tailwind CSS', "NestJS", "TypeScript", "Subgraph"],
         role: 'Full Stack Developer',
         code: '',
         demo: '',
-        image: travel,
     },
-    {
-        id: 3,
-        name: 'GameFi Platform',
-        description: 'Revamped and maintained both the old and new game designs, optimizing user experience and engagement. Collaborated with project managers to formulate and execute cost-saving and resource optimization strategies, contributing to a streamlined development process.',
-        tools: ['React', 'SCSS', 'TSED', 'TypeScript', 'MongoDB', 'AWS', 'OpenAI API', 'Cronjob', 'JWT'],
-        code: '',
-        role: 'Full Stack Developer',
-        demo: '',
-        image: realEstate,
-    }
 ];
-
-
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     name: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-//     image: crefin,
-// },

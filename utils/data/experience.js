@@ -1,26 +1,44 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Senior Full-Stack Developer',
-    company: "XYZ Tech Solutions",
-    duration: "(Jan 2020 - Jul 2024)"
+    title: 'Senior Software Developer',
+    company: "Lao Skyway",
+    duration: "(Sep 2024 - )"
   },
   {
     id: 2,
-    title: "Blockchain Developer",
-    company: "CryptoWorks",
-    duration: "(Aug 2017 - Nov 2019)"
+    title: 'AI Software Engineer',
+    company: "Fiver.com",
+    duration: "(Dec 2022 - Oct 2023)"
   },
   {
     id: 3,
-    title: "Full-Stack Developer",
-    company: "Innovatech Inc.",
-    duration: "(Jun 2016 - May 2017)"
+    title: 'Senior Full-Stack Developer',
+    company: "Vite Labs Limited",
+    duration: "(Aug 2021 - Oct 2022)"
   },
   {
     id: 4,
-    title: "Junior Web Developer",
-    company: "TechWave",
-    duration: "(Sep 2015 - Apr 2016)"
+    title: 'Unity Game Lead Developer',
+    company: "BUBRL",
+    duration: "(Jan 2020 - Aug 2021)"
+  },
+  {
+    id: 5,
+    title: "Unity Game Developer",
+    company: "TKO-GAMES ",
+    duration: "(Sep 2019 - Jan 2020)"
+  },
+  {
+    id: 6,
+    title: "Main Developer",
+    company: "ProjectOneGames",
+    duration: "(Sep 2018 - Sep 2019)"
+  },
+  {
+    id: 7,
+    title: "Blockchain Developer",
+    company: "CryptoWorks",
+    duration: "(Aug 2017 - Sep 2018)"
   }
 ]

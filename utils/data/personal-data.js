@@ -1,14 +1,18 @@
 export const personalData = {
-  name: "Tony Wilson",
+  name: "Kadueng Xaysongkham",
   profile: '/profile.png',
   designation: "Software Engineer",
-  description: "Innovative Full-Stack Developer with 10 years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.",
+  description: "My name is Kadueng Xaysongkham. Innovative Full-Stack, Mobile, Blockchain, and AI Developer with 6+ years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.",
   email: 'tonywilson930727@gmail.com',
-  phone: '+ 1 647 5588874',
-  github: 'https://github.com/tony930727',
-  telegram: 'https://t.me/TonyWilson0727',
-  twitter: 'https://x.com/TonyWilson0727',
-  leetcode: "https://leetcode.com/tonywilson0727",
-  devUsername: "TonyWilson0727",
-  resume: "https://docs.google.com/document/d/1wMyfWpuE6zNBaCtNS7t931eH-ub7zGH5iA7DuD0NXXw/edit?usp=sharing"
+  phone: '+856 209 9487362',
+  address: "Vientiane, Laos",
+  linkedIn: "https://www.linkedin.com/in/kadueng-xaysongkham-3b53a5335//",
+  facebook: "https://www.facebook.com/profile.php?id=61567158248931",
+  twitter: "https://x.com/IanOliver0318",
+  telegram: 'https://t.me/micky522',
+  github: "https://github.com/IanOliver0318",
+  stackOverflow: "https://stackoverflow.com/users/27899849/kadueng",
+  leetcode: "https://leetcode.com/u/athenea0118/",
+  devUsername: "IanOliver0318",
+  resume: "https://drive.google.com/file/d/1apbZAAkgicx-TLN_rgDe0bqEKP5mDLrE/view?usp=sharing"
 }
