@@ -113,24 +113,20 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/athenea0118/portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/IanOliver0318/portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "Ian Oliver Martin",
+  name: "Oleh Tkachenko",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is Ian Oliver Martin....",
+  description: "My name is Oleh Tkachenko....",
   email: "tonywilson930727@gmail.com",
-  phone: "+8562099487362",
-  address: "Vientiane, Laos",
+  address: "Odesa, Odessa, Ukraine",
   github: "https://github.com/IanOliver0318",
-  facebook: "https://www.facebook.com/profile.php?id=61567158248931",
-  linkedIn: "https://www.linkedin.com/in/kadueng-xaysongkham-3b53a5335//",
-  twitter: "https://x.com/IanOliver0318",
-  stackOverflow: "https://stackoverflow.com/users/27899849/kadueng",
+  linkedIn: "https://www.linkedin.com/in/oleh-tkachenko-186b54332/",
   devUsername: "IanOliver0318",
   resume: "...",
 };

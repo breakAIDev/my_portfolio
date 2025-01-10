@@ -1,7 +1,6 @@
 export const contactsData = {
     email: 'tonywilson930727@gmail.com',
-    phone: '+856 209 9487362',
     github: 'https://github.com/IanOliver0318',
-    twitter: 'https://x.com/IanOliver0318',
+    linkedIn: "https://www.linkedin.com/in/oleh-tkachenko-186b54332/",
     devUsername: "IanOliver0318"
 }
