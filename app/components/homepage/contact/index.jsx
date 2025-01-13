@@ -55,24 +55,24 @@ function ContactSection() {
                 size={48}
               />
             </Link>
-            <Link target="_blank" href={personalData.facebook}>
+            {/* <Link target="_blank" href={personalData.facebook}>
               <FaFacebook
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
               />
-            </Link>
-            <Link target="_blank" href={personalData.twitter}>
+            </Link> */}
+            {/* <Link target="_blank" href={personalData.twitter}>
               <FaXTwitter
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
               />
-            </Link>
-            <Link target="_blank" href={personalData.telegram}>
+            </Link> */}
+            {/* <Link target="_blank" href={personalData.telegram}>
               <FaTelegram
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
               />
-            </Link>
+            </Link> */}
             <Link target="_blank" href={personalData.github}>
               <IoLogoGithub
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"

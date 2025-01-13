@@ -123,7 +123,7 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is Oleh Tkachenko....",
-  email: "tonywilson930727@gmail.com",
+  email: "olehtkachenko77@gmail.com",
   address: "Odesa, Odessa, Ukraine",
   github: "https://github.com/IanOliver0318",
   linkedIn: "https://www.linkedin.com/in/oleh-tkachenko-186b54332/",
