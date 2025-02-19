@@ -113,7 +113,7 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/IanOliver0318/portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/breakAIDev/portfolio/tree/main/utils/data).
 
 Eg:
 
@@ -125,9 +125,9 @@ export const personalData = {
   description: "My name is Oleh Tkachenko....",
   email: "olehtkachenko77@gmail.com",
   address: "Odesa, Odessa, Ukraine",
-  github: "https://github.com/IanOliver0318",
+  github: "https://github.com/breakAIDev",
   linkedIn: "https://www.linkedin.com/in/oleh-tkachenko-186b54332/",
-  devUsername: "IanOliver0318",
+  devUsername: "breakAIDev",
   resume: "...",
 };
 ```

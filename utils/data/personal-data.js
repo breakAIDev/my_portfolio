@@ -6,6 +6,6 @@ export const personalData = {
   email: 'olehtkachenko77@gmail.com',
   address: "Odesa, Odessa, Ukraine",
   linkedIn: "https://www.linkedin.com/in/oleh-tkachenko-186b54332/",
-  github: "https://github.com/IanOliver0318",
-  devUsername: "IanOliver0318",
+  github: "https://github.com/breakAIDev",
+  devUsername: "breakAIDev",
 }
