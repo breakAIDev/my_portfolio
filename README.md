@@ -127,6 +127,7 @@ export const personalData = {
   address: "Odesa, Odessa, Ukraine",
   github: "https://github.com/breakAIDev",
   linkedIn: "https://www.linkedin.com/in/oleh-tkachenko-186b54332/",
+  telegram : "https://t.me/happyjongsoft",
   devUsername: "breakAIDev",
   resume: "...",
 };
